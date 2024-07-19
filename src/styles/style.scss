@@ -1,22 +1,22 @@
 :root {
   .light {
     --transparent: rgba(0, 0, 0, 0);
-    --white: #ffffff;
-    --black: #000000;
-    --tomato: #f44336;
+    --black: #ffffff;
+    --white: #000000;
+    --tomato: #f77970;
     --purple: #843dff;
-    --green: #4caf50;
-    --orange: #ff9800;
-    --control: #e2e8f0;
-    --control-brighter: #f3f5f9;
-    --control-focus: rgba(255, 255, 255, 0.2);
-    --background: #fafafa;
-    --foreground: #222222;
+    --green: #8bc34a;
+    --orange: #ffb13d;
+    --control: #192226;
+    --control-brighter: #2d3e45;
+    --control-focus: rgba(33, 45, 51, 0.4);
+    --background: #233035;
+    --foreground: #d7e1e4;
     --tag-foreground: #ffffff;
-    --foreground-dim: #a0aec0;
-    --foreground-light: #cbd5e0;
-    --code-background: #e2e8f0;
-    --code-foreground: #222222;
+    --foreground-dim: #638997;
+    --foreground-light: #506e7a;
+    --code-background: #506e7a;
+    --code-foreground: #d7e1e4;
   }
   .dark {
     --transparent: rgba(0, 0, 0, 0);
